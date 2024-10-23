@@ -1,0 +1,111 @@
+#EXTM3U
+
+#EXTINF:-1, Baby Time
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+
+#EXTINF:-1, Nickelodeon (Russia)
+http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
+
+#EXTINF:-1, Nicktoons (Russia)
+https://stream01.vnet.am/Boomerang/mono.m3u8
+
+#EXTINF:-1, Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+
+#EXTINF:-1, Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+
+#EXTINF:-1, Россия К
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+
+#EXTINF:-1, Муз-ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+
+#EXTINF:-1, Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1, Bridge (Музыка Канал)
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+
+#EXTINF:-1, Bridge (Classic)
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+
+#EXTINF:-1, Bridge (Deluxe)
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+
+#EXTINF:-1, Bridge (Hits)
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+
+#EXTINF:-1, Bridge (Rock)
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+
+#EXTINF:-1, Bridge Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+
+#EXTINF:-1, BRIDGE Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+
+#EXTINF:-1, НТВ Россия
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+
+#EXTINF:-1, РЕН ТВ
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+
+#EXTINF:-1, Ani
+http://streaming.tv-teleport.ru/Ani/index.m3u8
+
+#EXTINF:-1, ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+
+#EXTINF:-1, ТНТ (Музыка)
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+
+#EXTINF:-1, Пятница
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+
+#EXTINF:-1, Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:-1, ТВ3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+
+#EXTINF:-1, 5 Канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+
+#EXTINF:-1, ТНТ (Музыка)
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+
+#EXTINF:-1, Че! Москва
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+
+#EXTINF:-1, ОТР
+https://strm.yandex.ru/kal/otr/otr0.m3u8
+
+#EXTINF:-1, Дом Кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:-1, Домашний
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+
+#EXTINF:-1, Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+
+#EXTINF:-1, Мир 24
+https://strm.yandex.ru/kal/mir24/mir0.m3u8
+
+#EXTINF:-1, СТС
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+
+#EXTINF:-1, Зоо ТВ
+http://streaming.tv-teleport.ru/Zoo_TV/index.m3u8
+
+#EXTINF:-1, СТС Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+
+#EXTINF:-1, Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1, Беларусь 24
+https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+
